@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-# Script to remove EVERYTHING from you k8s cluster
+# Script to remove EVERYTHING from your k8s cluster
 # Useful when expirimenting with dev cluster
 # Do I need to say "not for production"?
 #
